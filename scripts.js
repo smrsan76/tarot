@@ -6,6 +6,7 @@ let cards = {
   wands: []
 };
 
+
 let majorNames = [
   "Fool",
   "Magician",
