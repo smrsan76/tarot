@@ -6,6 +6,9 @@ pages:
   - echo 'Nothing to do...'
   artifacts:
     paths:
-    - ./
+    - img
+    - index.html
+    - scripts.js
+    - styles.css
   only:
   - master
